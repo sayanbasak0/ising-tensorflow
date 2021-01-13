@@ -11,5 +11,8 @@ Tensorflow library is used to demonstrate this on a square lattice Ising model w
 - numpy
 - matplotlib
 
+# Try in Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/main?filepath=Ising_tensorflow.ipynb)
+
 # Disclaimer
 Use at your own risk!

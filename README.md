@@ -19,4 +19,4 @@ Tensorflow library is used to demonstrate this on a square lattice Ising model w
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/github/sayanbasak0/ising-tensorflow/blob/main/Ising_tensorflow_v2.ipynb)
 
 # Disclaimer
-Use at your own risk!
+

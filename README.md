@@ -13,10 +13,10 @@ Tensorflow library is used to demonstrate this on a square lattice Ising model w
 - ipywidgets
 
 # Try in Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/main?filepath=Ising_tensorflow_v2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/heroku?filepath=Ising_tensorflow_v2.ipynb)
 
 # Try in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayanbasak0/ising-tensorflow/blob/main/Ising_tensorflow_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayanbasak0/ising-tensorflow/blob/heroku/Ising_tensorflow_v2.ipynb)
 
 # Disclaimer
 

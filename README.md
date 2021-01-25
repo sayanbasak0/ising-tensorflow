@@ -1,6 +1,6 @@
-[![Launch Binder](https://raw.githubusercontent.com/sayanbasak0/ising-tensorflow/heroku/icons/binder_badge_logo.svg?v_DATE)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/heroku?filepath=Ising_tensorflow_v2.ipynb)
-[![Open in Colab](https://raw.githubusercontent.com/sayanbasak0/ising-tensorflow/heroku/icons/colab-badge.svg?v_DATE)](https://colab.research.google.com/github/sayanbasak0/ising-tensorflow/blob/heroku/Ising_tensorflow_v2.ipynb)
-[![Run Heroku App](https://raw.githubusercontent.com/sayanbasak0/ising-tensorflow/heroku/icons/heroku-logo-solid-gradient.svg?v_DATE)](https://ising-using.herokuapp.com/)
+[![Launch Binder](https://github.com/sayanbasak0/ising-tensorflow/blob/heroku/icons/binder_badge_logo.svg?raw=true)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/heroku?filepath=Ising_tensorflow_v2.ipynb)
+[![Open in Colab](https://github.com/sayanbasak0/ising-tensorflow/blob/heroku/icons/colab-badge.svg?raw=true)](https://colab.research.google.com/github/sayanbasak0/ising-tensorflow/blob/heroku/Ising_tensorflow_v2.ipynb)
+[![Run Heroku App](https://github.com/sayanbasak0/ising-tensorflow/blob/heroku/icons/heroku-logo-solid-gradient.svg?raw=true)](https://ising-using.herokuapp.com/)
 
 # Ising model on Tensorflow
 The notebook can simulate Ising model on a chain/square/cube/N-d hypercubic lattice.

@@ -1,6 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/heroku?filepath=Ising_tensorflow_v2.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayanbasak0/ising-tensorflow/blob/heroku/Ising_tensorflow_v2.ipynb)
-[![Launch Heroku App](icons/heroku-logo-solid-gradient.svg)](https://ising-using.herokuapp.com/)
+[![Launch Binder](https://github.com/sayanbasak0/ising-tensorflow/blob/heroku/icons/binder_badge_logo.svg)](https://mybinder.org/v2/gh/sayanbasak0/ising-tensorflow/heroku?filepath=Ising_tensorflow_v2.ipynb)
+[![Open in Colab](https://github.com/sayanbasak0/ising-tensorflow/blob/heroku/icons/colab-badge.svg)](https://colab.research.google.com/github/sayanbasak0/ising-tensorflow/blob/heroku/Ising_tensorflow_v2.ipynb)
+[![Run Heroku App](https://github.com/sayanbasak0/ising-tensorflow/blob/heroku/icons/heroku-logo-solid-gradient.svg)](https://ising-using.herokuapp.com/)
+
 # Ising model on Tensorflow
 The notebook can simulate Ising model on a chain/square/cube/N-d hypercubic lattice.
 The Ising model consists of +/-1 at each lattice site.

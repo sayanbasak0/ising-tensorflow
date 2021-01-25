@@ -22,10 +22,10 @@
     <use transform="matrix(1,0,0,1,0,0)" fill="url(#a)" xlink:href="#b"/>
     <use transform="matrix(1,0,0,1,0,0)" fill="url(#c)" xlink:href="#b"/>
   </g>
-    <text transform="scale(0.1)" font-family="'DejaVu Sans', Verdana, Geneva, sans-serif" font-size="450" textLength="3600" x="880" y="580" fill="rgb(0, 0, 0)" fill-opacity="0.5">
+    <text transform="scale(0.1)" font-family="'DejaVu Sans', Verdana, Geneva, sans-serif" font-size="450" textLength="3600" x="880" y="590" fill="rgb(0, 0, 0)" fill-opacity="0.5">
         Run Heroku App
     </text>
-    <text transform="scale(0.1)" font-family="'DejaVu Sans', Verdana, Geneva, sans-serif" font-size="450" textLength="3600" x="880" y="540" fill="rgb(255, 255, 255)">
+    <text transform="scale(0.1)" font-family="'DejaVu Sans', Verdana, Geneva, sans-serif" font-size="450" textLength="3600" x="880" y="560" fill="rgb(255, 255, 255)">
         Run Heroku App
     </text>
 </svg>

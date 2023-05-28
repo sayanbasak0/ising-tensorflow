@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="120mm"
-   height="16mm"
-   viewBox="0 0 120 16"
+   width="150"
+   height="20"
+   viewBox="0 0 39.6875 5.2916665"
    version="1.1"
    id="svg5844"
    sodipodi:docname="python-anywhere-logo.svg"
@@ -1414,9 +1414,9 @@ AAAAAAAAAAAAAAAAAAAAAABnAWNj2rvI/lYOAAAAAElFTkSuQmCC
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="267.66194"
-     inkscape:cy="26.591907"
+     inkscape:zoom="32"
+     inkscape:cx="3.6026884"
+     inkscape:cy="18.002449"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1447,43 +1447,47 @@ AAAAAAAAAAAAAAAAAAAAAABnAWNj2rvI/lYOAAAAAElFTkSuQmCC
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-281)">
-    <rect
-       style="fill:#ffd200;fill-opacity:1;stroke:none;stroke-width:0.71731156"
-       id="rect6493"
-       width="119.87399"
-       height="16.091526"
-       x="0.076909579"
-       y="280.97705"
-       ry="3.1347747" />
-    <rect
-       style="fill:url(#pattern6825);stroke:none;stroke-width:1.00937366"
-       width="16.633068"
-       height="16.075447"
-       x="1.1462054"
-       y="280.99313"
-       id="rect6491" />
-    <rect
-       style="fill:#080000;fill-opacity:1;stroke:none;stroke-width:0.16575363"
-       id="rect5857"
-       width="102.17163"
-       height="16.075447"
-       x="17.779274"
-       y="280.99313"
-       ry="2.8099825"
-       rx="3.1128037" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffd200;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="25.777981"
-       y="291.59494"
-       id="text7927"><tspan
-         sodipodi:role="line"
-         id="tspan7925"
-         x="25.777981"
+     transform="translate(0,-291.70833)">
+    <g
+       id="g8011"
+       transform="matrix(0.33071393,0,0,0.3290993,2.8676213e-4,199.23482)">
+      <rect
+         ry="3.1154459"
+         y="281.00186"
+         x="0.00042845972"
+         height="15.992308"
+         width="119.87961"
+         id="rect6493"
+         style="fill:#ffd200;fill-opacity:1;stroke:none;stroke-width:0.71511346" />
+      <rect
+         id="rect6491"
+         y="280.99313"
+         x="1.1462054"
+         height="16.075447"
+         width="16.633068"
+         style="fill:url(#pattern6825);stroke:none;stroke-width:1.00937366" />
+      <rect
+         rx="3.1142988"
+         ry="2.7968459"
+         y="281.00037"
+         x="17.779274"
+         height="16.000296"
+         width="102.2207"
+         id="rect5857"
+         style="fill:#080000;fill-opacity:1;stroke:none;stroke-width:0.16540544" />
+      <text
+         id="text7927"
          y="291.59494"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffd200;fill-opacity:1;stroke-width:0.26458332px"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0091ff;fill-opacity:1"
-   id="tspan7929">python</tspan> anywhere</tspan></text>
+         x="25.777981"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffd200;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffd200;fill-opacity:1;stroke-width:0.26458332px"
+           y="291.59494"
+           x="25.777981"
+           id="tspan7925"
+           sodipodi:role="line"><tspan
+   id="tspan7929"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0091ff;fill-opacity:1">python</tspan> anywhere</tspan></text>
+    </g>
   </g>
 </svg>
